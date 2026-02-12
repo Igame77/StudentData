@@ -1,0 +1,16 @@
+# Виртуальное окружение uv
+.venv/
+
+# Кэш и временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Артефакты сборки
+dist/
+build/
+*.egg-info/
+
+# Файлы окружения (содержат секреты)
+.env
+.ipynb_checkpoints
