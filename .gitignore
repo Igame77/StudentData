@@ -13,4 +13,4 @@ build/
 
 # Файлы окружения (содержат секреты)
 .env
-.ipynb_checkpoints
+.ipynb_checkpoints/
